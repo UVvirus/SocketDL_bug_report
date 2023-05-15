@@ -18,7 +18,10 @@ srcChainSlug has been used
 
 ### Screenshots
 
-If applicable, add screenshots to help explain your problem.
+![Screenshot from 2023-05-15 14-21-49](https://github.com/UVvirus/SocketDL_bug_report/assets/39599249/8fbde88d-29b7-44b3-ad1c-7f80238db8c0)
+
+![Screenshot from 2023-05-15 14-22-06](https://github.com/UVvirus/SocketDL_bug_report/assets/39599249/65669125-4f31-46bd-a40c-7d5045381b2c)
+
 
 ### Additional information
 
